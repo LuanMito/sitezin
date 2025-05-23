@@ -1,0 +1,61 @@
+.special-gothic-expanded-one-regular {
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+margin: 0;
+padding: 0;
+background-color: #ffffff;
+}
+header {
+background-color: #2D2D2D;
+color: #fff;
+padding: 10px 0;
+}
+nav ul {
+list-style: none;
+padding: 0;
+text-align: center;
+}
+nav ul li {
+display: inline;
+margin: 0 15px;
+}
+nav ul li a {
+color: #fff;
+text-decoration: none;
+}
+main {
+padding: 20px;
+text-align: center;
+}
+
+main .fotos img {
+height: auto;
+max-width: 100%;
+justify-content: center;
+
+
+}
+
+
+
+main h3 img {
+width:40%;
+margin-top:900px;
+}
+
+footer {
+background-color: #2D2D2D;
+color: #fff;
+text-align: center;
+padding: 10px 0px;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
